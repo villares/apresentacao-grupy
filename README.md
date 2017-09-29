@@ -13,10 +13,10 @@ No meu repositório [py-processing-play](https://github.com/villares/py.processi
 
 #### https://github.com/villares/py.processing-play/blob/master/pong_procedural_com_teclado.pyde
 
-Já no **[arteprog](http://arteprog.space)**, a [Monica Rizzolli](github.com/monicarizzolli) e eu fizemos uma versão para jogar com potenciômetros usando um Arduino e comunicação serial com Firmata. Os primeiros passos são super simples, um jogador só com o mouse.
+Já no **[arteprog](http://arteprog.space)**, a [Monica Rizzolli](github.com/monicarizzolli) e eu fizemos uma versão para jogar com potenciômetros usando um Arduino e comunicação serial com Firmata. Os primeiros passos são super simples, um jogador só com o mouse, e o controle com potenciômetros pode ser feito no final (tem uma verso dessa atividade para Dojo...)
 
 #### https://github.com/arteprog/cursos/blob/master/pong-com-pot/
 
-Para maiores explicações sobre **Processing Modo Python + Firmata + Arduino + Potenciômetros**, veja este outro brinquedo aqui que aprecentei com o pessoal do [Estúdio Hacker](http://github.com/estudiohacker):
+Para maiores explicações sobre **Processing Modo Python + Firmata + Arduino + Potenciômetros**, veja este outro brinquedo aqui que apresentei com o pessoal do [Estúdio Hacker](http://github.com/estudiohacker):
 
 #### http://github.com/estudiohacker/lousa-magica
